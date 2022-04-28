@@ -10,8 +10,8 @@ const poems = [
     image: "pizza.jpeg",
   },
   {
-    author: "Ernie",
-    poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+    author: "Peanuts",
+    poem: "Roses are red \n Violets are blue \n How Big Are My Nuts \n Inside OF YOU",
     image: "bee.jpeg",
   },
 
