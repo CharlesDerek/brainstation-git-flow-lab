@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+/* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
+body {
+  background-color: red;
+}
+
+.page-header {
+  text-align: center;
+}
+
+.container {
+  width: 90vw;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.poem {
+  width: 100%;
+  background-color: white;
+  margin-bottom: 1rem;
+}
+
+.poem__image {
+  width: 100%;
+}
