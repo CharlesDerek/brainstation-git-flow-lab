@@ -6,7 +6,11 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
+<<<<<<< HEAD
   background-color: #FFF459;
+=======
+  background-color: cyan;
+>>>>>>> 52790b6576f4685d40e848105c3de1438bd3993c
 }
 
 .page-header {
